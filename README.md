@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -108,12 +108,20 @@
                     <p>Managment inventory and raw material for your business presence online</p>
                 </div>
                 <div class="service">
-                    <h3>IT Infrastructure</h3>
-                    <p>Networking, servers, IoT support, and cloud solutions.</p>
+                    <h3>Vendor Data Managment</h3>
+                    <p>Add/update vendor onboarding ,details, GST, bank details.</p>
+                </div>
+                <div class="service">
+                <h3>Tender/Compliance File Management</h3>
+                <p>Organize GST, PAN, MSME docs.</p>
                 </div>
                 <div class="service">
                     <h3>Data Analytics</h3>
                     <p>Power BI, SQL, and reporting solutions for better decisions.</p>
+                </div>
+                <div class= "service">
+                <h3>Social page handle</h3>
+                <p>Website, Facebook, Insta, Linkdin , Twitter.</p>
                 </div>
             </div>
         </section>
