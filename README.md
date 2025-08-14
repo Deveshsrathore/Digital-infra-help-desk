@@ -104,8 +104,8 @@
                     <p>End-to-end SAP & ERP solutions for small contractors & enterprises.</p>
                 </div>
                 <div class="service">
-                    <h3>Website Development</h3>
-                    <p>Build professional websites for your business presence online.</p>
+                    <h3>Inventory and Raw material management </h3>
+                    <p>Managment inventory and raw material for your business presence online</p>
                 </div>
                 <div class="service">
                     <h3>IT Infrastructure</h3>
